@@ -1,6 +1,7 @@
 # belajar_slicing_dua
 
-A new Flutter project.
+A Flutter project.
+Implements a list view with static data
 
 ## Getting Started
 
